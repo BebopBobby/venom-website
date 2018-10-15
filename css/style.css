@@ -7,7 +7,7 @@ header{
     text-align: center;
 }
 h1{
-    font-size: 90px;
+    font-size: 100px;
     color:white;
     text-transform: uppercase;
     font-family: Butcherman;
@@ -16,6 +16,7 @@ h1{
 h2{
     font-size: 30px;
     margin-bottom: 26px; 
+    color: white;
 }
 h3:hover{
     font-size: 20px;
@@ -35,7 +36,12 @@ text-align: center;
 .primary-content{
     text-align: center;
     margin: auto;
+    border: white;
     background-image: url("../images/tongue.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: #ffffff;
+    border-style: double;
 }
 .secondary-content{
     margin: auto;
