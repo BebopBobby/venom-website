@@ -1,0 +1,48 @@
+body{
+    background-color:black;
+}
+header{
+    background-image: url("../images/symbiotes-klyntar.jpg");
+    background-repeat: no;
+    text-align: center;
+}
+h1{
+    font-size: 90px;
+    color:white;
+    text-transform: uppercase;
+    font-family: Butcherman;
+    text-shadow: 8px 4px 8px #000;
+}
+h2{
+    font-size: 30px;
+    margin-bottom: 26px; 
+}
+h3:hover{
+    font-size: 20px;
+    color: #48525c;
+    margin-bottom: 24px;
+    padding-left: 20px; 
+}
+p{
+    padding-left: 20px;
+    color: white;
+}
+.title{
+color: white;
+font-size: 20px;
+text-align: center;
+}
+.primary-content{
+    text-align: center;
+    margin: auto;
+    background-image: url("../images/tongue.gif");
+}
+.secondary-content{
+    margin: auto;
+}
+.primary-content,.secondary-content{
+    width: 60%;
+}
+.main-header{
+    background-color:black;
+}
